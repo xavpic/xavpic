@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xavpic, PhD student at the I3S la  in Sophia Antipolis (Université Côte d'Azur).
+- 👀 I’m interested in Signal and Image Processing, Computer Vision, Deep Learning and Information theory
+- 🌱 I’m currently doing research on image compression methods that encode data into synthetic DNA.
+- 📫 How to reach me: xpic@i3s.unice.fr
