@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xavpic, PhD student at the I3S la  in Sophia Antipolis (Université Côte d'Azur).
+- 👋 Hi, I’m @xavpic, postdoctoral researcher at the Data Science Department of EURECOM, Sophia Antipolis (France).
 - 👀 I’m interested in Signal and Image Processing, Computer Vision, Deep Learning and Information theory
 - 🌱 I’m currently doing research on image compression methods that encode data into synthetic DNA.
-- 📫 How to reach me: xpic@i3s.unice.fr
+- 📫 How to reach me: xavier.pic@eurecom.fr
